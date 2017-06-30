@@ -8,7 +8,7 @@ Treatments for study:
       Melodic (Variable frequency haptic icons)
       Counted (# of signals per timeframe)
       
-  - # of levels:
+  - Number of levels:
       3 Levels
       4 Levels
       5 Levels
